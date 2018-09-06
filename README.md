@@ -91,3 +91,14 @@ https://www.amazon.com/gp/hel...isplay.html?nodeId=201895700
 Si hay algo más que podamos hacer por usted, no dude en contactarnos, estaremos más que felices de poder ayudarle.
 
 Le deseo un excelente día (cliente)! Recuerda que estamos a las órdenes ante cualquier duda o consulta.
+----------------------------------------------------------------------------------------------------------------------------------------
+<b>password_reset_troubleshoot (Hay problemas para poder iniciar sesion ó el cliente olvidó su contraseña)</b>
+----------------------------------------------------------------------------------------------------------------------------------------
+<p>Hola [CLIENTE],
+
+Mi nombre es [AGENT NAME], del departamento de Servicio Al Cliente de Amazon.
+<br>Lamento los problemas que has tenido para acceder a tu cuenta. Para resolver esto, te reenvié el correo electrónico de restablecimiento de contraseña; sin embargo, antes de usar este enlace, asegúrate de cerrar sesión en Amazon.com.
+<br>Para asegurarte de que hayas cerrado sesión, observa el menú "Mi cuenta" en la esquina superior derecha de nuestra página de inicio. Si dice "Iniciar sesión", ya cerraste sesión. Si te saluda con tu nombre, mueve el cursor sobre el menú y haz clic en "¿No eres tú? Cerrar sesión" en la lista de opciones que se despliega. 
+<br>Disculpa los inconvenientes ocasionados. Espero que esta información te sea de ayuda. Esperamos verte pronto.</p>
+
+----------------------------------------------------------------------------------------------------------------------------------------
